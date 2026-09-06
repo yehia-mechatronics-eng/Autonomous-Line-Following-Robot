@@ -6,16 +6,7 @@ This project is an **autonomous line-following robot** designed to detect and fo
 
 The robot uses **IR sensors** to detect the line and an **Arduino** to process the sensor readings and control the motors. Based on the position of the line, the robot automatically adjusts its movement to stay on the track.
 
-## 🎥 Project Demo
-
-The robot in action:
-
-## 🎥 Demo
-
-[▶️ Watch the robot demonstration]((https://youtube.com/shorts/t-K0BL5tVIk?feature=share)
-)
-
-> Replace `YOUR_VIDEO_LINK` with your YouTube or other video link.
+[▶️ Watch the robot demonstration]((https://youtube.com/shorts/t-K0BL5tVIk?feature=share))
 
 ## ⚙️ How It Works
 
