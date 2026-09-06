@@ -12,7 +12,7 @@ The robot in action:
 
 ## 🎥 Demo
 
-[▶️ Watch the robot demonstration](./line-follower-robot.mp4
+[▶️ Watch the robot demonstration]([./line-follower-robot.mp4](https://youtube.com/shorts/t-K0BL5tVIk?feature=share)
 )
 
 > Replace `YOUR_VIDEO_LINK` with your YouTube or other video link.
