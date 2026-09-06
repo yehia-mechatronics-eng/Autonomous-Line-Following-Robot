@@ -8,6 +8,8 @@ The robot uses **IR sensors** to detect the line and an **Arduino** to process t
 ## 🎥 Demo
 
 [▶️ Watch the robot demonstration](line-follower-robot.mp4)
+then click raw
+
 ## ⚙️ How It Works
 
 The IR sensors continuously monitor the surface underneath the robot.
