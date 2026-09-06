@@ -10,7 +10,7 @@ The robot uses **IR sensors** to detect the line and an **Arduino** to process t
 
 The robot in action:
 
-👉 **[Watch the Demo Video](YOUR_VIDEO_LINK)**
+👉 **[Watch the Demo Video](line-follower-robot.mp4)**
 
 > Replace `YOUR_VIDEO_LINK` with your YouTube or other video link.
 
