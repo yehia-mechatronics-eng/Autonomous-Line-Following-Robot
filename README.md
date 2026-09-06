@@ -38,9 +38,7 @@ The IR sensors continuously detect the position of the line.
 - Implement real-time decision making
 - Build an autonomous robotic system
 
-## 📸 Project
 
-Add photos or a video of the robot here.
 
 ## 🚀 Future Improvements
 
