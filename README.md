@@ -8,7 +8,7 @@ The robot uses **IR sensors** to detect the line and an **Arduino** to process t
 ## 🎥 Demo
 
 [▶️ Watch the robot demonstration](line-follower-robot.mp4)
-then "view click raw"
+then click "view raw"
 
 ## ⚙️ How It Works
 
