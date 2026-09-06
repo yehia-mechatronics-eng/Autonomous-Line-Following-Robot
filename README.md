@@ -1,53 +1,77 @@
 # 🤖 Autonomous Line-Following Robot
 
 ## 📌 Overview
-This project is an autonomous line-following robot built using Arduino. 
-The robot uses IR sensors to detect a line on the ground and automatically 
-adjusts the motor movement to follow the path.
+
+This project is an **autonomous line-following robot** designed to detect and follow a predefined path without manual control.
+
+The robot uses **IR sensors** to detect the line and an **Arduino** to process the sensor readings and control the motors. Based on the position of the line, the robot automatically adjusts its movement to stay on the track.
+
+## 🎥 Project Demo
+
+The robot in action:
+
+👉 **[Watch the Demo Video](YOUR_VIDEO_LINK)**
+
+> Replace `YOUR_VIDEO_LINK` with your YouTube or other video link.
 
 ## ⚙️ How It Works
-The IR sensors continuously detect the position of the line.
 
-- If the line is centered → the robot moves forward.
-- If the line moves to the left → the robot adjusts to the left.
-- If the line moves to the right → the robot adjusts to the right.
-- The motors are controlled based on the sensor readings.
+The IR sensors continuously monitor the surface underneath the robot.
+
+* ⬆️ **Line detected in the center** → Robot moves forward
+* ⬅️ **Line detected on the left** → Robot adjusts to the left
+* ➡️ **Line detected on the right** → Robot adjusts to the right
+* 🛑 **Line not detected** → Robot stops or searches for the line
+
+The Arduino reads the sensor signals and controls the motors accordingly.
 
 ## 🛠️ Components
 
-- Arduino
-- IR Line Sensors
-- DC Motors
-- Motor Driver
-- Robot Chassis
-- Wheels
-- Battery
+* Arduino
+* IR Line-Following Sensors
+* DC Motors
+* Motor Driver
+* Robot Chassis
+* Wheels
+* Battery / Power Supply
+* Connecting Wires
 
 ## 💻 Technologies
 
-- Arduino
-- C/C++
-- Embedded Systems
-- IR Sensors
-- Motor Control
+* **Arduino**
+* **C/C++**
+* **Embedded Systems**
+* **IR Sensor Technology**
+* **Motor Control**
 
-## 🎯 Project Goals
+## 🎯 Features
 
-- Learn embedded programming
-- Work with sensors and actuators
-- Implement real-time decision making
-- Build an autonomous robotic system
-
+* Autonomous navigation
+* Real-time sensor processing
+* Automatic direction correction
+* Motor speed and direction control
+* Simple and efficient control logic
 
 
 ## 🚀 Future Improvements
 
-- Improve line-following accuracy
-- Add PID control
-- Increase movement speed
-- Add obstacle detection
-- Optimize sensor calibration
+* Implement **PID control** for smoother movement
+* Improve sensor calibration
+* Increase navigation speed
+* Add obstacle detection
+* Add wireless monitoring/control
+* Optimize motor speed control
+
+## 📸 Project Photos
+
+Add pictures of the robot here:
+
+```markdown
+![Robot](Images/robot.jpg)
+```
 
 ## 👨‍💻 Author
 
-Yehia
+**Yehia**
+
+This project was developed as a practical project to gain experience in **Arduino programming, electronics, embedded systems, sensors, and robotics**.
