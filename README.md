@@ -65,13 +65,6 @@ The Arduino reads the sensor signals and controls the motors accordingly.
 * Add wireless monitoring/control
 * Optimize motor speed control
 
-## 📸 Project Photos
-
-Add pictures of the robot here:
-
-```markdown
-![Robot](Images/robot.jpg)
-```
 
 ## 👨‍💻 Author
 
